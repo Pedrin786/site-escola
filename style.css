@@ -1,4 +1,10 @@
-body {background-color: #4EBFE9;}
+header {background-color: #4EBFE9;color: white;}
  <title>document</title>
   <link rel="stylesheet" href="style.css"
-ul
+<header>
+   <h1>vai ter uma imagem aqui<\h1>
+ <ul>
+  <li>escola</li>
+  <li>estudante</li>
+ </ul>
+</header>
